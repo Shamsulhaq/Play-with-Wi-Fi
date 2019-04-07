@@ -4,5 +4,5 @@
 - macchanger
 - airmon-ng
 - airodump-ng
-- airplay
--continue
+- aireplay-ng
+- continue
