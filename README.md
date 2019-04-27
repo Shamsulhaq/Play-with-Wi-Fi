@@ -1,6 +1,5 @@
 # Break EPA, WPA / WPA2 Encryption and play with Wi-Fi
 
-### Tools
 - Network Basic
 - Gather Information in connected device.
 - Play with WEP Encryption 
