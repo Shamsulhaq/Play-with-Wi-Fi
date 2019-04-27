@@ -1,9 +1,11 @@
-# Break the security WPA / WPA2 and play with Wi-Fi using Kali Linux 2.X
+# Break EPA, WPA / WPA2 Encryption and play with Wi-Fi
 
 ### Tools
-- macchanger
-- airmon-ng
-- airodump-ng
-- aireplay-ng
-- aircrack-ng
-- continue
+- Network Basic
+- Gather Information in connected device.
+- Play with WEP Encryption 
+- Play with WPA/WPA2 Encryption
+- MITM Attacks
+
+- Fully Accessing The Connected Devices
+- Protect Your WiFi AP and Yourself Against All The Previous Attacks
